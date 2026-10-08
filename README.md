@@ -1,4 +1,3 @@
-![Lina's Banner](./banner.png)
 # Hey, I'm Lina!
 
 Just a curious human trying to figure things out, one rabbit hole at a time.
