@@ -1,51 +1,29 @@
-# Hey, I'm Lina!
+# Hi, I'm Lina
 
-Just a curious human trying to figure things out, one rabbit hole at a time.
+I work on websites and SEO, and lately I've been building small things with AI. On the side, I keep notes on books, money, and philosophy.
 
-I like making things, learning random stuff, questioning what I thought I knew, and occasionally convincing myself that my latest idea is *the* idea.
+I like turning ideas into things that actually exist, even when I don't know where to start.
 
-Somewhere between technology, books, money, philosophy, and whatever catches my attention next.
+## What I'm into
 
-### 🌱 A Little About Me
+- **Websites and SEO.** I work mostly on English-language websites, from keyword research and content to technical SEO, site structure, and analytics. WordPress, Ahrefs, Search Console, and GA4 are some of the tools I use.
+- **Building with AI.** I'm learning by making things. My latest project is [linaworks](https://linaworks.github.io/), a personal website I'm building and gradually filling with notes and experiments.
+- **Books.** Currently reading *Finite and Infinite Games*. I like books that make me question things I thought I understood.
+- **Money and markets.** I invest, follow markets, and like figuring out what makes a business worth owning. I'm especially interested in business models, competitive advantages, and why people make the decisions they do.
+- **Philosophy and psychology.** How people think, what drives them, and why we do the things we do.
 
-- 💻 I work with websites, SEO, and digital things. Lately, I've been experimenting with building stuff using AI.
-- 📚 I love books that challenge the way I see the world. The more questions they leave me with, the better.
-- 💸 Endlessly fascinated by money, markets, and why humans make the decisions they do.
-- 🧠 Interested in philosophy, psychology, and the strange business of being human.
-- 🛠️ I enjoy turning random ideas into actual things, even when I have absolutely no idea where to start.
-- 🌍 Always curious about what's happening beyond my little corner of the world.
+## Right now
 
-### 🧪 Things I'm Playing With
+- **Reading:** *Finite and Infinite Games* by James P. Carse
+- **Building:** My [digital garden](https://linaworks.github.io/garden/)
+- **Working on:** Making things instead of just thinking about making them
 
-A growing collection of experiments, half-formed ideas, and projects that somehow made it out of my head.
+## Find me
 
-Some might be useful. Some might be weird. Some might never be finished.
-
-That's kind of the point.
-
-### 📖 Currently
-
-- **Reading:** Something that makes my brain hurt a little.
-- **Exploring:** AI, creative coding, and building things on the internet.
-- **Thinking about:** How to live an interesting life without turning everything into a productivity project.
-- **Trying to get better at:** Making things instead of just thinking about making them.
-
-### 💭 A Small Thought
-
-I don't think we have to stick to just one thing.
-
-We can be interested in technology and philosophy, care about money and meaning, build things and still have absolutely no idea what we're doing sometimes.
-
-Maybe that's what makes life interesting.
-
-### 🌐 Find Me Around the Internet
-
+- **Website:** [linaworks.github.io](https://linaworks.github.io/)
+- **Garden:** [Notes on books, business, and philosophy](https://linaworks.github.io/garden/)
+- **Writing:** [Essays and longer thoughts](https://linaworks.github.io/writing/)
+- **Projects:** [Things I'm making](https://linaworks.github.io/projects/)
 - **GitHub:** [@linaworks](https://github.com/linaworks)
-- **Personal Website:** Coming soon
-- **Blog:** Coming soon
 
----
-
-*Anyway, welcome to my little corner of the internet. ☕*
-
-*Stay curious. Keep making things.*
+I don't think you have to pick one thing. I'm interested in technology and philosophy, in money and meaning, and I'm fine not having it all figured out.
