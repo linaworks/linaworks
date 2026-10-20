@@ -1,5 +1,7 @@
 # Hi, I'm Lina
 
+English | [中文](https://github.com/linaworks/linaworks/blob/main/README.zh-CN.md)
+
 I work on websites and SEO, and lately I've been building small things with AI. On the side, I keep notes on books, money, and philosophy.
 
 I like turning ideas into things that actually exist, even when I don't know where to start.
@@ -11,6 +13,10 @@ I like turning ideas into things that actually exist, even when I don't know whe
 - **Books.** Currently reading *Finite and Infinite Games*. I like books that make me question things I thought I understood.
 - **Money and markets.** I invest, follow markets, and like figuring out what makes a business worth owning. I'm especially interested in business models, competitive advantages, and why people make the decisions they do.
 - **Philosophy and psychology.** How people think, what drives them, and why we do the things we do.
+
+## Outside work
+
+I enjoy stand-up comedy, long conversations on The Joe Rogan Experience, Hitchcock films, and TV series like Better Call Saul and Fleabag. I keep the full lists in my [Personal Space](https://linaworks.github.io/personal/).
 
 ## Right now
 
@@ -24,6 +30,7 @@ I like turning ideas into things that actually exist, even when I don't know whe
 - **Garden:** [Notes on books, business, and philosophy](https://linaworks.github.io/garden/)
 - **Writing:** [Essays and longer thoughts](https://linaworks.github.io/writing/)
 - **Projects:** [Things I'm making](https://linaworks.github.io/projects/)
+- **Personal Space:** [Comedy, podcasts, films, and TV](https://linaworks.github.io/personal/)
 - **GitHub:** [@linaworks](https://github.com/linaworks)
 
 I don't think you have to pick one thing. I'm interested in technology and philosophy, in money and meaning, and I'm fine not having it all figured out.
